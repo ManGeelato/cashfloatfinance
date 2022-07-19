@@ -480,7 +480,7 @@ textarea:focus {
   transition: 0.2s;
 }
 
-.contact .row .form-container .submit{
+.contact .row .form-container .submitS{
   width: 17rem;
   background: var(--pink);
   color: #fff;
